@@ -1,0 +1,8 @@
+{
+  "name": "new TechNeeds",
+  "description": "A premium mentorship platform connecting mentors and students through structured learning, progress tracking, and professional skill development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
